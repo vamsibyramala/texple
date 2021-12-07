@@ -13,7 +13,7 @@ RUN mv apache-tomcat-8.5.73/* /opt/tomcat/.
 RUN yum -y install java
 RUN java -version
 
-ADD target/webapp.war /opt/tomcat/webapps
+ADD webapp/target/webapp.war /opt/tomcat/webapps
 
 EXPOSE 8085
 
