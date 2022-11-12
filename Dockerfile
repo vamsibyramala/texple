@@ -1,4 +1,4 @@
-From tomcat:8-jre8
+From tomcat
 
 MAINTAINER vamsibyramala@gmail.com
 
