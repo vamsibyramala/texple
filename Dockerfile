@@ -1,4 +1,4 @@
-From bitnami/tomcat
+From tomcat:8.0-alpine
 
 MAINTAINER vamsibyramala@gmail.com
 
