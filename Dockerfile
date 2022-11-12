@@ -2,4 +2,4 @@ From tomcat
 
 MAINTAINER vamsibyramala@gmail.com
 
-ADD webapp/target/webapp /usr/local/tomcat/webapps/
+ADD sample.war /usr/local/tomcat/webapps/
