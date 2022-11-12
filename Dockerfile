@@ -1,4 +1,4 @@
-From tomcat
+From bitnami/tomcat
 
 MAINTAINER vamsibyramala@gmail.com
 
